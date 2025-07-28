@@ -1,4 +1,4 @@
-# EEG Dataset for SSVEP and MI Tasks
+# SSVEP and MI Tasks Based EEG Dataset for Artifact Removal
 
 This dataset contains EEG recordings for Steady-State Visual Evoked Potential (SSVEP) and Motor Imagery (MI) tasks, including both clean and noisy conditions.
 
